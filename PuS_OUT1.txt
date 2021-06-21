@@ -1,0 +1,66 @@
+
+
+Dane szkoly publicznej:
+Lokalizacja: Warszawa
+Rok powstania: 1984
+Patron: Stanislaw_Staszic
+
+Liczba uczniow: 5
+
+Lista uczniow:
+
+Dane ucznia:
+PESEL: 8537589395
+Imie: Adam
+Nazwisko: Bak
+
+
+Dane ucznia:
+PESEL: 348573895
+Imie: Piotr
+Nazwisko: Choluj
+
+
+Dane ucznia:
+PESEL: 4864796
+Imie: Agata
+Nazwisko: Robak
+
+
+Dane ucznia:
+PESEL: 859385
+Imie: Filip
+Nazwisko: Tomasiewicz
+
+
+Dane ucznia:
+PESEL: 869469846
+Imie: Eleonora
+Nazwisko: Radziwill
+
+
+
+Liczba nauczycieli: 3
+
+Lista nauczycieli:
+
+Dane nauczyciela:
+PESEL: 13918139183
+Imie: Adam
+Nazwisko: Kowalski
+Doswiadczenie (w latach): 8
+
+
+Dane nauczyciela:
+PESEL: 824823942
+Imie: Piotr
+Nazwisko: Nowak
+Doswiadczenie (w latach): 9
+
+
+Dane nauczyciela:
+PESEL: 2828982
+Imie: Aleksandra
+Nazwisko: Banasiak
+Doswiadczenie (w latach): 18
+

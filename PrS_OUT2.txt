@@ -1,0 +1,47 @@
+
+
+Dane szkoly prywatnej:
+Lokalizacja: Szczecin
+Rok powstania: 2004
+Cena za godzine: 60
+
+Liczba uczniow: 3
+
+Lista uczniow:
+
+Dane ucznia:
+PESEL: 38563983
+Imie: Piotr
+Nazwisko: Baran
+
+
+Dane ucznia:
+PESEL: 835398593
+Imie: Szymon
+Nazwisko: Bez
+
+
+Dane ucznia:
+PESEL: 696849684
+Imie: LeBron
+Nazwisko: James
+
+
+
+Liczba nauczycieli: 2
+
+Lista nauczycieli:
+
+Dane nauczyciela:
+PESEL: 8356356358
+Imie: Franek
+Nazwisko: Smuda
+Doswiadczenie (w latach): 40
+
+
+Dane nauczyciela:
+PESEL: 4679486894
+Imie: Heinz
+Nazwisko: Kuttin
+Doswiadczenie (w latach): 9
+

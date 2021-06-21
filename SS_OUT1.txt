@@ -1,0 +1,76 @@
+
+
+Dane szkoly narciarskiej:
+Lokalizacja: Zakopane
+Rok powstania: 2008
+Cena za godzine: 90
+
+Liczba uczniow: 4
+
+Lista uczniow:
+
+Dane ucznia:
+PESEL: 847986896
+Imie: Piotr
+Nazwisko: Pikus
+
+
+Dane ucznia:
+PESEL: 289472984
+Imie: Adam
+Nazwisko: Malysz
+
+
+Dane ucznia:
+PESEL: 38538953
+Imie: Noriaki
+Nazwisko: Kasai
+
+
+Dane ucznia:
+PESEL: 74986496
+Imie: Kamil
+Nazwisko: Stoch
+
+
+
+Liczba nauczycieli: 2
+
+Lista nauczycieli:
+
+Dane nauczyciela:
+PESEL: 3358357348
+Imie: Adam
+Nazwisko: Adamski
+Doswiadczenie (w latach): 7
+
+
+Dane nauczyciela:
+PESEL: 42694849
+Imie: Orest
+Nazwisko: Lenczyk
+Doswiadczenie (w latach): 45
+
+
+
+Liczba sprzetu: 3
+
+Lista sprzetu:
+
+Dane sprzetu:
+Rozmiar: XXL
+Kolor: bialy
+Producent: Marlboro
+
+
+Dane sprzetu:
+Rozmiar: 46
+Kolor: niebieski
+Producent: Wrangler
+
+
+Dane sprzetu:
+Rozmiar: XL
+Kolor: zolty
+Producent: Max_Factor
+
